@@ -1,3 +1,2 @@
 My first readme
-<!-- updated in the GitHub interface -->
-let's see
+Updated in the GitHub interface
